@@ -1,2 +1,2 @@
-# emir-io
+# emrii-io
 My personal repository
