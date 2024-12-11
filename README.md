@@ -1,4 +1,4 @@
-### Hello :) 
+### Hello 👋
 
 My name is Michael Erwin. I am a marketing professional in Texas continuing my studies in Emerging Technologies.
 
